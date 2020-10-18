@@ -18,9 +18,9 @@ Até breve no GoStack.
 
 ## New Feature added: Phone Number Field and Whatsapp contact
 
-![Whatsapp1] (https://github.com/rogerio410/rocketseat-nlw2-2020/blob/main/zap1.jpg)
-![Whatsapp1] (https://github.com/rogerio410/rocketseat-nlw2-2020/blob/main/zap2.jpg)
-![Whatsapp1] (https://github.com/rogerio410/rocketseat-nlw2-2020/blob/main/zap3.jpg)
-![Whatsapp1] (https://github.com/rogerio410/rocketseat-nlw2-2020/blob/main/zap4.jpg)
-![Whatsapp1] (https://github.com/rogerio410/rocketseat-nlw2-2020/blob/main/zap5.jpg)
-![Whatsapp1] (https://github.com/rogerio410/rocketseat-nlw2-2020/blob/main/zap6.png)
+![Whatsapp1](https://github.com/rogerio410/rocketseat-nlw2-2020/blob/main/zap1.jpg)
+![Whatsapp2](https://github.com/rogerio410/rocketseat-nlw2-2020/blob/main/zap2.jpg)
+![Whatsapp3](https://github.com/rogerio410/rocketseat-nlw2-2020/blob/main/zap3.jpg)
+![Whatsapp4](https://github.com/rogerio410/rocketseat-nlw2-2020/blob/main/zap4.jpg)
+![Whatsapp5](https://github.com/rogerio410/rocketseat-nlw2-2020/blob/main/zap5.jpg)
+![Whatsapp6](https://github.com/rogerio410/rocketseat-nlw2-2020/blob/main/zap6.png)
