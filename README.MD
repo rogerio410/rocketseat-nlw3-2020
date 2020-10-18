@@ -12,4 +12,4 @@ Até breve no GoStack.
 
 #EuFuiAteOFim #RocketSeat #nlw3 #typescript #reactjs #reactnative #express #nodejs
 
-![alt text](http://https://github.com/rogerio410/rocketseat-nlw2-2020/happy.png)
+![alt text](https://github.com/rogerio410/rocketseat-nlw2-2020/happy.png)
