@@ -23,22 +23,13 @@ export default function OrphanageData() {
   const [opening_hours, setOpeningHours] = useState('')
   const [open_on_weekends, setOpenOnWeekend] = useState(true)
   const [images, setImages] = useState<string[]>([])
+  const [phone_number, setPhoneNumber] = useState('')
 
   const route = useRoute()
   const { position } = route.params as OrphanageDataRouteParams
 
   async function handleCreateOrphanage() {
     const { latitude, longitude } = position
-    console.log({
-      name,
-      about,
-      instructions,
-      opening_hours,
-      open_on_weekends,
-      latitude,
-      longitude
-    })
-
     const data = new FormData()
 
     data.append('name', name);
@@ -48,6 +39,7 @@ export default function OrphanageData() {
     data.append('open_on_weekends', String(open_on_weekends));
     data.append('latitude', String(latitude));
     data.append('longitude', String(longitude));
+    data.append('phone_number', String(phone_number));
 
     images.forEach((image, index) => {
       data.append('images', {
@@ -111,7 +103,10 @@ export default function OrphanageData() {
 
       <Text style={styles.label}>Whatsapp</Text>
       <TextInput
+        value={phone_number}
+        onChangeText={setPhoneNumber}
         style={styles.input}
+        placeholder='86999999999'
       />
 
       <Text style={styles.label}>Fotos</Text>
